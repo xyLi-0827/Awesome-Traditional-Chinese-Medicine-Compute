@@ -21,5 +21,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## 2024
 
 - <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
+- <a name=""></a>**[MIGA]** Human Plasmacytoid Dendritic Cells Activated by CpG Oligodeoxynucleotides Induce the Generation of CD4+CD25+ Regulatory T Cells (**journals**) [[paper](https://journals.aai.org/jimmunol/article/173/7/4433/72863)] 
 
 ## 2023
