@@ -24,3 +24,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name=""></a>**[MIGA]** Human Plasmacytoid Dendritic Cells Activated by CpG Oligodeoxynucleotides Induce the Generation of CD4+CD25+ Regulatory T Cells (**journals**) [[paper](https://journals.aai.org/jimmunol/article/173/7/4433/72863)] 
 
 ## 2023
+
+## 2019
+- <a name=""></a>**[MIGA]** iDNA6mA-PseKNC: Identifying DNA N6-methyladenosine sites by incorporating nucleotide physicochemical properties into PseKNC (**sciencedirect**) [[paper](https://www.sciencedirect.com/science/article/pii/S0888754318300090)] 
