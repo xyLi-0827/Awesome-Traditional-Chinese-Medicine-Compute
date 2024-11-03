@@ -21,9 +21,12 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## 2024
 
 - <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
-- <a name=""></a>**[MIGA]** Human Plasmacytoid Dendritic Cells Activated by CpG Oligodeoxynucleotides Induce the Generation of CD4+CD25+ Regulatory T Cells (**journals**) [[paper](https://journals.aai.org/jimmunol/article/173/7/4433/72863)] 
+- <a name=""></a>**[]** Human Plasmacytoid Dendritic Cells Activated by CpG Oligodeoxynucleotides Induce the Generation of CD4+CD25+ Regulatory T Cells (**journals**) [[paper](https://journals.aai.org/jimmunol/article/173/7/4433/72863)] 
 
 ## 2023
 
+## 2021
+- <a name=""></a>**[]** Systematic Survey of the Alteration of the Faecal Microbiota in Rats With Gastrointestinal Disorder and Modulation by Multicomponent Drugs (**frontiersin**)[[paper](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.670335/full)]  [[code](https://www.ncbi.nlm.nih.gov/，PRJNA719295)]
+
 ## 2019
-- <a name=""></a>**[MIGA]** iDNA6mA-PseKNC: Identifying DNA N6-methyladenosine sites by incorporating nucleotide physicochemical properties into PseKNC (**sciencedirect**) [[paper](https://www.sciencedirect.com/science/article/pii/S0888754318300090)] 
+- <a name=""></a>**[]** iDNA6mA-PseKNC: Identifying DNA N6-methyladenosine sites by incorporating nucleotide physicochemical properties into PseKNC (**sciencedirect**) [[paper](https://www.sciencedirect.com/science/article/pii/S0888754318300090)] 
