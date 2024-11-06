@@ -24,3 +24,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## 2023
 - <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
+
+## 2022
+- <a name=""></a>**[MIGA]** SymMap: an integrative database of traditional Chinese medicine enhanced by symptom mapping (**academic.oup**) [[paper](https://academic.oup.com/nar/article-abstract/47/D1/D1110/5150228)].
+
+## 2021
+- <a name=""></a>**[MIGA]** HERB: a high-throughput experiment-and reference-guided database of traditional Chinese medicine (**academic.oup**) [[paper](https://academic.oup.com/nar/article-abstract/49/D1/D1197/6017358)].
